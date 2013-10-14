@@ -1,0 +1,24 @@
+Roles:
+	Administrador
+	Usuario
+	Visitante
+	
+Como Administrador quiero modificar el catalogo
+Como Administrador quiero poder modificar las ofertas
+Como Administrador quiero consultar las ultimas compras hechas
+Como Administrador quiero leer consultas, recomendaciones y quejas de los Usuarios y Visitantes.
+Como Administrador quiero modificar las fichas de los libros
+
+
+Como Visitante quiero poder registrarme
+Como Visitante quiero poder identificarme
+Como Visitante quiero hojear los libros del catalogo
+Como Visitante ver las promociones del dia
+Como Visitante quiero poder navegar a traves del catalogo usando las categorias
+Como Visitante quiero ver la informacion del local.
+Como Visitante quiero realizar busquedas.
+
+
+Como Usuario quiero armar un carrito de compras
+Como Usuario quiero poder elejir el metodo de pago
+Como Usuario quiero realizar encargos de libros fuera de catalogo
